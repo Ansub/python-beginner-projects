@@ -22,8 +22,8 @@ elif user_input == "paper":
         print("Paper Covers Rock, You Win")
     else:
         print("Scissor cuts Paper, You Lose")
-
-# scissor situation
+        
+# scissors situation
 elif user_input == "scissors":
     if actions == "paper":
         print("Scissors Cuts Paper, You Win")
