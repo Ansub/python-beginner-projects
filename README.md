@@ -8,3 +8,15 @@
 - **guess_the_number_user.py** -> same game but here computer guess the number that user picked
 
 - **rock_paper_scissors.py** -> a simple rock,paper,scissors game using if else.
+
+- **biography_info.py** ->  biography info based on user input 
+- 
+- **biography_info.py** ->  biography info
+
+- **calculator.py** -> simple calculator using if else
+
+- **worldclock.py** -> shows time based on the city entered
+
+- **temprature_convertor.py** -> converts temprature to C and vice versa
+
+
