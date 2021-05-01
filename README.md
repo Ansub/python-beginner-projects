@@ -10,8 +10,6 @@
 - **rock_paper_scissors.py** -> a simple rock,paper,scissors game using if else.
 
 - **biography_info.py** ->  biography info based on user input 
-- 
-- **biography_info.py** ->  biography info
 
 - **calculator.py** -> simple calculator using if else
 
